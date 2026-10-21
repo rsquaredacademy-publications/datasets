@@ -10,3 +10,12 @@ in June 2026: 60 rows, columns `date`, `city`, `temp_c`, `rain_mm`, `sunny`.
 Generated for the course; own data, CC0. Also in the
 [rsquareddata](https://github.com/rsquaredacademy-publications/rsquareddata)
 package as `weather`.
+
+### `store_days.csv` (Data Viz with ggplot2)
+
+Bean & Barrel coffee chain: one row per store per trading day, 9 stores in
+5 countries × 20 days in March 2026 (180 rows). Columns `day`, `date`,
+`store_id`, `city`, `country`, `customers`, `revenue_usd`, `avg_wait_min`.
+Generated for the course (seed 20260314); own data, CC0. Also in the
+[rsquareddata](https://github.com/rsquaredacademy-publications/rsquareddata)
+package as `store_days`.
