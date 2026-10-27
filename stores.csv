@@ -1,0 +1,10 @@
+"store_id","store_name","city","country","opened_year","seats"
+"ST-01","Kimathi Street","Nairobi","Kenya",2017,28
+"ST-02","Chiado","Lisbon","Portugal",2018,24
+"ST-03","Kingsway","Toronto","Canada",2019,34
+"ST-04","Gastown","Vancouver","Canada",2016,30
+"ST-05","Mitte","Berlin","Germany",2020,26
+"ST-06","Plateau","Montreal","Canada",2015,32
+"ST-07","HafenCity","Hamburg","Germany",2021,22
+"ST-08","Bandra","Mumbai","India",2018,36
+"ST-09","Indiranagar","Bengaluru","India",2019,40
