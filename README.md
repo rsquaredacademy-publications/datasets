@@ -31,3 +31,11 @@ joins to `sales.csv` on `store_id`. Generated for the courses; own data, CC0.
 Also in the
 [rsquareddata](https://github.com/rsquaredacademy-publications/rsquareddata)
 package as `sales` and `stores`.
+
+### `feedback.csv` (Data Wrangling with dplyr)
+
+Bean & Barrel coffee chain: one row per customer feedback card, 108 cards over
+20 days in March 2026. Columns `card_id` (F-001 to F-108), `visit_date`,
+`store_id` (joins to `stores.csv`), `product`, `rating` (1-5; 11 cards blank)
+and `spend_usd` (7 cards blank), used in the lesson on missing values.
+Generated for the course; own data, CC0.
